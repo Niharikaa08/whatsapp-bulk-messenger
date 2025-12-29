@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+venv/
+.env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.code-workspace

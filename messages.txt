@@ -1,0 +1,1 @@
+Hi, this is Niharikaa. This is a test message sent automatically using my Python WhatsApp Bulk Messenger project.
